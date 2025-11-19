@@ -1,16 +1,14 @@
-## Hi there 👋
+# Cześć, tu Szymon 👋
 
-<!--
-**SzymonJawors/SzymonJawors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jestem fullstack developerem.
 
-Here are some ideas to get you started:
+## 🚀 Projekty
+- [Netflix Clone](https://netflix-clone.vercel.app) – React, Firebase
+- [JaworAI](https://jaworai.vercel.app) – Node.js, Express, React
+- [Portfolio](https://www.szymonjaworski.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Kontakt
+- Email: jawor12325@gmail.com
+- LinkedIn: [SzymonJaworski](https://www.linkedin.com/in/szymonjawor)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SzymonJawors&show_icons=true&theme=radical)
