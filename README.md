@@ -3,8 +3,8 @@
 Jestem fullstack developerem.
 
 ## 🚀 Projekty
-- [Netflix Clone](https://netflix-clone.vercel.app) – React, Firebase
-- [JaworAI](https://jaworai.vercel.app) – Node.js, Express, React
+- [Netflix Clone](netflix-clone-eight-beta-40.vercel.app) – React, Firebase
+- [JaworAI](jawor-aiserv.vercel.app) – Node.js, Express, React
 - [Portfolio](https://www.szymonjaworski.dev)
 
 ## 📫 Kontakt
